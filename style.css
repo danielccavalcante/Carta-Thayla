@@ -8,7 +8,7 @@ body {
   font-family: 'Playfair Display', serif;
   min-height: 100vh;
   margin: 0;
-  background: url('/assets/fundo.jpg') no-repeat center top/cover;
+  background: url('assets/Fundo.jpg') no-repeat center top/cover;
   position: relative;
   overflow-x: hidden; /* impede scroll horizontal */
   overflow-y: auto;   /* permite rolar para baixo( tinha feito antes sem isso e não deu pra ver a foto toda) */
@@ -145,3 +145,4 @@ button:hover {
   .text { font-size: 1rem; }
 
 }
+
