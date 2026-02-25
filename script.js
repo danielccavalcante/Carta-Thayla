@@ -1,17 +1,24 @@
 // Texto da carta
 const text = `
-Desde que você entrou na minha vida, tudo mudou.
-Dias mais leves, sorrisos mais fáceis, mundo mais bonito.
+Meu amor, desde que você entrou na minha vida, tudo mudou.
+Meus dias ficaram mais leves, os sorrisos mais fáceis, eu comecei a ver um mundo mais bonito.
 
-Cada detalhe seu mora no meu coração.
+Cada detalhe teu mora no meu coração.
+
 Seu jeito, sua voz, seu sorriso, seu olhar...
 Tudo em você me faz ter certeza:
 
-Eu te escolheria em todas as vidas,
+Se tivéssemos mais de uma vida, eu te escolheria em todas elas,
 em todos os mundos,
 em todas as versões do universo.
 
-Você é meu amor, minha pessoa, meu futuro. ❤️
+Eu agradeço demais por Deus ter te colocado em meu caminho naquele dia.
+
+Você é a minha princesa, a minha companhia e o meu futuro. ❤️
+
+O nome Thayla pode ser interpretado como "aquela que está protegida" e eu quero ser essa pessoa que te passa segurança e que vai sempre estar te protegendo e te apoiando em tudo.
+
+Eu tenho muito orgulho de você, meu amor, sei que Deus tem coisas incríeis reservadas pra nós dois ❤️❤️
 `;
 
 let i = 0;
