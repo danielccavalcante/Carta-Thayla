@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<!-- Favicon padrão pro desktop -->
+<link rel="icon" type="image/x-icon" href="/Favicon/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="/Favicon/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/Favicon/favicon-32x32.png">
+
+<!-- Apple / iOS -->
+<link rel="apple-touch-icon" sizes="180x180" href="/Favicon/apple-touch-icon.png">
+
+<!-- Android / Chrome -->
+<link rel="icon" type="image/png" sizes="192x192" href="/Favicon/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/Favicon/android-chrome-512x512.png">
+<!-- Peguei tudo no site favicon.io (anotando pra caso eu precise dnv kkkk)-->
+
+<!-- Manifest / PWA -> descobri que isso serve pra colocar o favicon como icone caso salve um atalho na tela inicial do celular-->
+<link rel="manifest" href="site.webmanifest">
+<meta name="theme-color" content="#d6336c"> 
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Para a minha princesa ❤️</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Dancing+Script:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="hearts"></div>
+
+  <div class="container">
+    <div class="envelope" id="envelope">
+      <div class="flap"></div>
+      <div class="letter">
+        <h1>Para o amor da minha vida 💖</h1>
+        <div id="typewriter" class="text"></div>
+        <button id="revealBtn" class="hidden">💝 Hoje e sempre 💝</button>
+        <div id="gift" class="gift hidden">
+          <img src="assets/Daniel_Thayla.jpg" alt="❤️Hoje e sempre❤️" class="gift-img">
+          <p>Te amo mais do que palavras conseguem explicar.</p>
+          <p>Você é meu lar, minha paz e meu futuro. ❤️</p>
+        </div>
+        <div id="contador" class="contador"></div>
+      </div>
+    </div>
+  </div>
+
+  <audio id="music" loop>
+    <source src="assets/music.mp3" type="audio/mpeg">
+  </audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
